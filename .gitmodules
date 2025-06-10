@@ -3,4 +3,4 @@
 	url = https://github.com/Acidanthera/MacKernelSDK.git
 [submodule "Lilu"]
 	path = Lilu
-	url = https://github.com/acidanthera/Lilu
+	url = https://github.com/uncor3/Lilu.git
